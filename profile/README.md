@@ -1,4 +1,4 @@
-## This is the offical ArcticOS team
+## This is the official ArcticOS Team
 
 <!--
 
